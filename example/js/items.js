@@ -151,7 +151,75 @@ $(document).ready(function() {
       "image" : "models/thumbnails/thumbnail_nyc2.jpg",
       "model" : "models/js/nyc-poster2.js",
       "type" : "2"
+    },
+    {
+      "name" : "Monkey",
+      "image" : "models/thumbnails/monkey.jpeg",
+      "model" : "models/js/monkey.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Box",
+      "image" : "models/thumbnails/monkey.jpeg",
+      "model" : "models/js/box1.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Short obj",
+      "image" : "models/thumbnails/monkey.jpeg",
+      "model" : "models/js/shortbox2.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Table",
+      "image" : "models/thumbnails/monkey.jpeg",
+      "model" : "models/js/a.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Armchair",
+      "image" : "models/thumbnails/armchair.jpg",
+      "model" : "models/js/b.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Table",
+      "image" : "models/thumbnails/c.jpeg",
+      "model" : "models/js/c.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Chair",
+      "image" : "models/thumbnails/d.jpeg",
+      "model" : "models/js/d.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Showcase",
+      "image" : "models/thumbnails/monkey.jpeg",
+      "model" : "models/js/f.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Table",
+      "image" : "models/thumbnails/monkey.jpeg",
+      "model" : "models/js/g.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Drawer",
+      "image" : "models/thumbnails/monkey.jpeg",
+      "model" : "models/js/h.js",
+      "type" : "1"
+    },
+    {
+      "name" : "Chair",
+      "image" : "models/thumbnails/monkey.jpeg",
+      "model" : "models/js/i.js",
+      "type" : "1"
     }
+
+
    /*     
    {
       "name" : "",
